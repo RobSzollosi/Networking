@@ -1,6 +1,4 @@
-CS3357 ASN4 - Web Load Balancer
-Robert Szollosi 
-250917994
+Networking - Web Load Balancer
 
 To use the balancer as described in this assignment you will need 3 directories 
 with the following files:
